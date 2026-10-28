@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/drupal-htmx-attr">drupal-htmx-attr</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/drupal-htmx-attr"><strong>https://abraxaslabs.tech/research/drupal-htmx-attr</strong></a>
+</p>
+
 
 # drupal-htmx-attr
 
